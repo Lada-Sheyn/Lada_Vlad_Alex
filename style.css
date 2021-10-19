@@ -3,4 +3,82 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+* {
+padding: 0;
+margin: 0;
+}
 
+body {
+    padding: 36px 35px;  
+}
+
+.wrapper {
+width: 375px;
+height: 4524px;
+}
+
+header {
+    background-color: white;
+    width: 300px;
+}
+
+.menu {
+    display: flex;
+    margin-top:44.6px;
+    
+}
+
+p {
+font-family: 'Roboto';
+}
+
+.first {
+    display: flex;
+    align-items: center;
+}
+
+.firstline {
+    margin-right: 11.65px;
+}
+
+
+.menu-text {
+    font-size: 10px;
+    width: 60.58px;
+}
+
+.first-img {
+    padding-right: 3.73px;
+}
+
+.second-img {
+    padding-right: 4.66px;
+}
+
+.third-img {
+    padding-right: 6.06px;
+}
+
+
+
+h1 {
+    font-family: 'Roboto Slab';
+    font-size: 37px;
+    font-weight: 700;
+    height: 88.53px;
+    width: 292.63px;
+    margin-top:8.06px ;
+    padding-left: 0.47px;
+}
+
+.under {
+    margin-top: 20px;
+    width: 212.4px;
+    height: 28.96px;
+    font-size: 10px;
+    padding-left: 0.74px;
+ }
+
+ .chair-guy {
+     margin-left: 201px;
+ }

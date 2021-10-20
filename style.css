@@ -133,6 +133,36 @@ h1 {
     margin-top: 8.39px;
  }
 
- #text {
-     margin-bottom: 53px;
+ .camera-guy {
+    margin-left: 66px;
+    width: 170.55px;
+    height: 160.29px;
+ } 
+
+ .list-one {
+    margin-top: 45.71px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 200px;
+    
+ }
+
+.box-one {
+    width: 86px;
+    margin-bottom: 34px;
+    
+}
+ .bold-one {
+    width: 69.9px;
+    height: 18.17px;  
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 12px;
+ }
+
+ .small-text-one {
+    width: 86.89px;
+    height: 18.5px;
+    font-size: 10px;
  }

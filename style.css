@@ -30,6 +30,7 @@ header {
 
 p {
 font-family: 'Roboto';
+font-size: 10px;
 }
 
 .first {
@@ -150,7 +151,7 @@ h1 {
 
 .box-one {
     width: 86px;
-    margin-bottom: 34px;
+    
     
 }
  .bold-one {
@@ -166,3 +167,35 @@ h1 {
     height: 18.5px;
     font-size: 10px;
  }
+
+ .special {
+    margin-bottom: 34px;
+ }
+
+ #margin-two {
+     margin-top: 76px;
+ }
+
+
+ .list-two {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+ }
+
+ .box-two {
+     margin-bottom: 33px;
+ }
+
+
+ .blue-font {
+     font-size: 12px;
+     color:  #1E4681;
+     font-weight: bold;
+     margin-bottom: 0.83px;
+}
+
+#margin-three {
+   margin-top: 40px;
+}

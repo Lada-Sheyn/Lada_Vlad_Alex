@@ -82,3 +82,57 @@ h1 {
  .chair-guy {
      margin-left: 201px;
  }
+
+ .quote{ 
+     background-color: rgba(30, 70, 129, 1);
+     border-radius: 2.32986px;
+     box-sizing: border-box;
+     color: white;
+     margin-left: 2.98px;
+     margin-top: 38.94px;
+     width: 225.36px;
+     height: 93.19px;
+ }
+
+ .quote-first {
+    font-family: 'Roboto Slab';
+    font-size: 11px;
+    padding-top: 8.97px;
+    padding-left: 12.13px;
+    width: 200px;
+    height: 52.65px;
+    
+ }
+
+ .quote-second {
+    width: 130.7px;
+    height: 21.27px;
+    font-family: 'Roboto';
+    font-size: 10px;
+    text-align: right;
+    padding-left: 87.07px;
+    padding-top: 6.92px;
+ }
+
+ h2 {
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 26px;
+ }
+
+ #margin-one{
+     margin-top: 75.06px;
+     margin-left: 1px;
+ }
+
+ .text {
+    width: 308.47px;
+    height: 174.27px;
+    font-family: 'Roboto';
+    font-size: 12px;
+    margin-top: 8.39px;
+ }
+
+ #text {
+     margin-bottom: 53px;
+ }

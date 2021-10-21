@@ -321,3 +321,65 @@ width: 671px;
 height: 363.46px;
 background-color: #9DC9C8;
 }
+
+#margin-six {
+width: 224px;
+height: 73px;
+padding-top: 62px;
+padding-left: 22px; ;
+}
+
+.price {
+width: 79.22px;
+height: 14.91px;
+font-size: 12px;
+margin-left: 21.85px;
+margin-bottom: 0px;
+margin-top: 36.33px;
+}
+
+.sum {
+width: 224.13px;
+height: 45px;
+font-weight: normal;
+font-size: 37px;
+margin-top: 0px;
+margin-left: 21.85px;
+margin-bottom: 33.53px;
+}
+
+.list-four {
+display: flex;
+margin-left: 22px;
+}
+
+.list-column {
+    margin-right: 31px;
+}
+
+.upper-text {
+font-size: 12px;
+margin-bottom: 5px;
+}
+
+.lower-text {
+    width: 140px;
+    height: 47px;
+}
+
+footer {
+width: 671px;
+height: 251px;
+background-color: #000000;
+}
+
+.logo-white {
+width: 53.59px;
+height: 31.69px;
+padding-top: 23.3px;
+padding-left: 21.85px;
+}
+
+.icons {
+    padding-left: 21.85px;
+}

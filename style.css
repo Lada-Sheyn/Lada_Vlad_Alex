@@ -371,6 +371,7 @@ footer {
 width: 671px;
 height: 251px;
 background-color: #000000;
+color: white;
 }
 
 .logo-white {
@@ -381,5 +382,52 @@ padding-left: 21.85px;
 }
 
 .icons {
+    padding-top: 13.98px;
     padding-left: 21.85px;
 }
+
+.contacts {
+    width: 148.18px;
+    height: 41.01px;
+    display: flex;
+   
+    
+}
+
+.near-contacts {
+display: flex;
+flex-direction: column;
+padding-left: 22px;
+padding-top: 47.66px;
+
+
+}
+
+.phone {
+width: 12.58px;
+height: 12.58px;
+margin-bottom: 11.65px;
+}
+
+.mail {
+width: 12.58px;
+height: 8.39px;
+}
+
+.footer-big {
+    height: 18.64px;
+    margin-bottom: 8px;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    padding-top: 47.66px;
+    margin-left: 10.25px;
+}
+
+.copyright {
+  
+    margin-top:90px;
+    margin-left: 21.85px;
+    }

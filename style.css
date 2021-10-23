@@ -24,7 +24,8 @@ header {
 
 .menu {
     display: flex;
-    margin-top:44.6px;
+    margin-top:32px;
+    margin-left: 4px;
     
 }
 
@@ -38,7 +39,7 @@ font-size: 10px;
     align-items: center;
 }
 
-.firstline {
+.first-line {
     margin-right: 11.65px;
 }
 
@@ -53,11 +54,11 @@ font-size: 10px;
 }
 
 .second-img {
-    padding-right: 4.66px;
+    padding-right: 4px;
 }
 
 .third-img {
-    padding-right: 6.06px;
+    padding-right: 5px;
 }
 
 
@@ -68,7 +69,7 @@ h1 {
     font-weight: 700;
     height: 88.53px;
     width: 292.63px;
-    margin-top:8.06px ;
+    margin-top: 6px ;
     padding-left: 0.47px;
 }
 
@@ -81,7 +82,7 @@ h1 {
  }
 
  .chair-guy {
-     margin-left: 201px;
+     margin-left: 165px;
  }
 
  .quote{ 

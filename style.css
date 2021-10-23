@@ -125,17 +125,20 @@ h1 {
  }
 
  #margin-one{
-     margin-top: 75.06px;
-     margin-left: 1px;
+     margin-top: 71.06px;
+     margin-left: 6.5px;
  }
 
  .text {
     width: 308.47px;
-    height: 174.27px;
+    height: 214px;
     font-family: 'Roboto';
-    font-size: 12px;
-    margin-top: 8.39px;
+    margin-top: 24.39px;
+    margin-left: 7px;
  }
+
+
+ 
 
  .camera-guy {
     margin-left: 66px;
@@ -201,6 +204,7 @@ h1 {
 
 #margin-three {
    margin-top: 40px;
+   width: 450px;
 }
 
 .unmarked {
@@ -209,17 +213,25 @@ h1 {
 
 
 ul {
-    margin-top: 24px;
+    margin-top: 25px;
     width: 299px;
     height: 174px;
-    margin-left: 9px;
+    margin-left: 8px; 
+    text-align: left;
+    line-height: 14.7px;
+    font-size: 12px;
+}
+
+li {
+    font-size: 10px;
+    margin-top: 6px;
     
 }
 
 #margin-four {
-    margin-top: 66px;
+    margin-top: 79px;
     margin-bottom: 50px;
-    margin-left: -1px;
+    margin-left: -2px;
 }
 
 
@@ -229,7 +241,7 @@ height: 152.84px;
 background: #FFFFFF;
 box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
 border-radius: 13.9792px;
-margin-left: 61px;
+margin-left: 57px;
 margin-bottom: 24.16px;
 }
 
@@ -239,8 +251,7 @@ height: 18.17px;
 font-family: 'Roboto';
 font-weight: bold;
 font-size: 14px;
-margin-top: 5.13px;
-margin-left: 9.32px;
+margin-left: 11px;
 }
 
 .card-text {

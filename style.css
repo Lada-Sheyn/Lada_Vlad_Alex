@@ -214,7 +214,7 @@ h1 {
 }
 
 #margin-three {
-   margin-top: 40px;
+   margin-top: 44px;
    width: 450px;
 }
 
@@ -224,10 +224,10 @@ h1 {
 
 
 ul {
-    margin-top: 25px;
+    margin-top: 30px;
     width: 299px;
     height: 174px;
-    margin-left: 8px; 
+    margin-left: 9px; 
     text-align: left;
     line-height: 14.7px;
     font-size: 12px;
@@ -235,14 +235,14 @@ ul {
 
 li {
     font-size: 10px;
-    margin-top: 6px;
+    margin-top: 5.4px;
     
 }
 
 #margin-four {
-    margin-top: 79px;
-    margin-bottom: 50px;
-    margin-left: -2px;
+    margin-top: 81px;
+    margin-bottom: 55px;
+    
 }
 
 

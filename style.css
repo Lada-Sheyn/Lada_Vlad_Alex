@@ -195,14 +195,14 @@ h1 {
 
 
  .list-two {
-    margin-top: 32px;
+    margin-top: 35px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap; 
  }
 
  .box-two {
-     margin-bottom: 33px;
+     margin-bottom: 35px;
  }
 
 
@@ -210,7 +210,7 @@ h1 {
      font-size: 12px;
      color:  #1E4681;
      font-weight: bold;
-     margin-bottom: 0.83px;
+     margin-bottom: 3.83px;
 }
 
 #margin-three {

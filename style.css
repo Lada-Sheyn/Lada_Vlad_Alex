@@ -353,16 +353,16 @@ background-color: #9DC9C8;
 width: 224px;
 height: 73px;
 padding-top: 62px;
-padding-left: 22px; ;
+padding-left: 36px; ;
 }
 
 .price {
 width: 79.22px;
 height: 14.91px;
 font-size: 12px;
-margin-left: 21.85px;
+margin-left: 34.85px;
 margin-bottom: 0px;
-margin-top: 23.33px;
+margin-top: 11.33px;
 }
 
 .sum {
@@ -371,17 +371,19 @@ height: 45px;
 font-weight: normal;
 font-size: 37px;
 margin-top: 0px;
-margin-left: 21.85px;
-margin-bottom: 33.53px;
+margin-left: 30px;
+margin-bottom: 26.53px;
+
 }
 
 .list-four {
 display: flex;
-margin-left: 22px;
+margin-left: 36px;
 }
 
 .list-column {
-    margin-right: 31px;
+    margin-right: 28px;
+    line-height: 10,14px;
 }
 
 .upper-text {
@@ -392,6 +394,7 @@ margin-bottom: 5px;
 .lower-text {
     width: 140px;
     height: 47px;
+    line-height: 101.38%;
 }
 
 footer {
@@ -404,13 +407,17 @@ color: white;
 .logo-white {
 width: 53.59px;
 height: 31.69px;
-padding-top: 23.3px;
-padding-left: 21.85px;
+padding-top: 22.3px;
+padding-left: 37.90px;
 }
 
 .icons {
-    padding-top: 13.98px;
-    padding-left: 21.85px;
+    padding-top: 8.98px;
+    padding-left: 36.85px;
+}
+
+.small-icon {
+    margin-right: 4.8px;
 }
 
 .contacts {
@@ -418,7 +425,6 @@ padding-left: 21.85px;
     height: 41.01px;
     display: flex;
    
-    
 }
 
 .near-contacts {

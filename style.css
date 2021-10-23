@@ -107,6 +107,7 @@ h1 {
     padding-left: 12.13px;
     width: 200px;
     height: 52.65px;
+    line-height: 14.3px;
     
  }
 
@@ -117,7 +118,7 @@ h1 {
     font-size: 10px;
     text-align: right;
     padding-left: 87.07px;
-    padding-top: 7.92px;
+    padding-top: 5.92px;
  }
 
  h2 {

@@ -157,7 +157,8 @@ h1 {
  } 
 
  .list-one {
-    margin-top: 45.71px;
+    margin-top: 41.71px;
+    margin-left: 4px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -167,7 +168,7 @@ h1 {
 
 .box-one {
     width: 86px;
-    
+    margin-right: -5px;
     
 }
  .bold-one {

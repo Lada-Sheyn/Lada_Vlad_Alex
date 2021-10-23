@@ -40,7 +40,7 @@ font-size: 10px;
 }
 
 .first-line {
-    margin-right: 11.65px;
+    margin-right: 11px;
 }
 
 
@@ -58,7 +58,7 @@ font-size: 10px;
 }
 
 .third-img {
-    padding-right: 5px;
+    padding-right: 4px;
 }
 
 
@@ -67,22 +67,23 @@ h1 {
     font-family: 'Roboto Slab';
     font-size: 37px;
     font-weight: 700;
-    height: 88.53px;
+    height: 34px;
     width: 292.63px;
     margin-top: 6px ;
-    padding-left: 0.47px;
+    padding-left: 5.47px;
+    margin-right: 2px;
 }
 
 .under {
-    margin-top: 20px;
+    margin-top: 10.7px;
     width: 212.4px;
     height: 28.96px;
     font-size: 10px;
-    padding-left: 0.74px;
+    padding-left: 4.74px;
  }
 
  .chair-guy {
-     margin-left: 165px;
+     margin-left: 171px;
  }
 
  .quote{ 

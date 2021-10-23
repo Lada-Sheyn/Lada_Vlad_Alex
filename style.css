@@ -430,8 +430,8 @@ padding-left: 37.90px;
 .near-contacts {
 display: flex;
 flex-direction: column;
-padding-left: 22px;
-padding-top: 47.66px;
+padding-left: 38px;
+padding-top: 43.66px;
 
 
 }
@@ -449,19 +449,19 @@ height: 8.39px;
 
 .footer-big {
     height: 18.64px;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     font-size: 12px;
 }
 
 .contact-info {
     display: flex;
     flex-direction: column;
-    padding-top: 47.66px;
+    padding-top: 44.66px;
     margin-left: 10.25px;
 }
 
 .copyright {
   
-    margin-top:90px;
-    margin-left: 21.85px;
+    margin-top:91px;
+    margin-left: 37.85px;
     }

@@ -1,4 +1,4 @@
- /* @media (max-width:991px) and (min-width:320px) {  */
+@media (max-width:991px) and (min-width:320px) {
 
    
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
@@ -91,7 +91,7 @@ h1 {
     line-height: 150%;
  }
 
- .chair-guy {
+ .director {
      margin-left: 170px;
  }
 
@@ -155,7 +155,7 @@ h1 {
 }
  
 
- .camera-guy {
+ .operator {
      margin-top: 18px;
     margin-left: 70px;
     width: 170.55px;
@@ -473,6 +473,10 @@ height: 8.39px;
     margin-left: 37.85px;
     }
 
+.director-top {display: none;}
+.h1-left {display: none;}
+.operator-2 {display: none;}
+.operator-left{display: none;}
+.footer-left {display: none;}
 
-
-/* }  */
+ } 
